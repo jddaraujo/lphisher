@@ -1,4 +1,4 @@
-# LPisher
+# LPhisher
     Esse programa é um mod em Português do ZPhisher
 (This is a portuguese-BR mod of the program ZPhisher)
 
